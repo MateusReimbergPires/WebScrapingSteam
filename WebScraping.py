@@ -1,5 +1,5 @@
-# Este código realiza web scraping de um site de venda de facas e extrai informações específicas, como título, quantidade e preço.
-# Os dados são armazenados em um arquivo CSV para posterior análise.
+# Este codigo realiza web scraping de um site de venda de facas e extrai informacoes especificas, como titulo, quantidade e preco.
+# Os dados sao armazenados em um arquivo CSV para posterior analise.
 
 # Bibliotecas 
 from bs4 import BeautifulSoup
